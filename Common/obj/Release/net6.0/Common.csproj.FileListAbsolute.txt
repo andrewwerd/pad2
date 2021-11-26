@@ -1,0 +1,11 @@
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\bin\Release\net6.0\Common.deps.json
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\bin\Release\net6.0\Common.dll
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\bin\Release\net6.0\ref\Common.dll
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\bin\Release\net6.0\Common.pdb
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.AssemblyInfo.cs
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.dll
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\ref\Common.dll
+C:\Users\andrei.tirsina\Desktop\PAD2\Common\obj\Release\net6.0\Common.pdb

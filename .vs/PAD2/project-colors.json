@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "740e62f0-4f79-4028-be89-d9681afa23d2": {
+      "ProjectGuid": "740e62f0-4f79-4028-be89-d9681afa23d2",
+      "DisplayName": "FlyBookingWebApi",
+      "ColorIndex": 0
+    },
+    "6b67fca9-4471-4771-945e-7ec2a8296db9": {
+      "ProjectGuid": "6b67fca9-4471-4771-945e-7ec2a8296db9",
+      "DisplayName": "FlyWebApi",
+      "ColorIndex": 1
+    },
+    "34d17b45-cc0a-43f6-acf6-5ddde243c741": {
+      "ProjectGuid": "34d17b45-cc0a-43f6-acf6-5ddde243c741",
+      "DisplayName": "FlyWebApi",
+      "ColorIndex": 2
+    },
+    "ec0f3aaf-bb94-4e64-aa54-c99fd989dd2d": {
+      "ProjectGuid": "ec0f3aaf-bb94-4e64-aa54-c99fd989dd2d",
+      "DisplayName": "WebApi",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0cfdadf8-912d-43d7-8301-4fe840b234d8": {
+      "ProjectGuid": "0cfdadf8-912d-43d7-8301-4fe840b234d8",
+      "DisplayName": "Proxy",
+      "ColorIndex": 4
+    },
+    "3b93c9ee-44fa-4c78-9e4e-b1761987321b": {
+      "ProjectGuid": "3b93c9ee-44fa-4c78-9e4e-b1761987321b",
+      "DisplayName": "SyncNode",
+      "ColorIndex": 5
+    },
+    "b82a64b7-00ae-436f-9a77-345a523c9778": {
+      "ProjectGuid": "b82a64b7-00ae-436f-9a77-345a523c9778",
+      "DisplayName": "Common",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
